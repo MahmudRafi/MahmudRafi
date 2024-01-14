@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Blockchain, Bot & Cyber Security**
 
-- 📫 How to reach me **mahmudrafi@protonmail.com**
+- 📫 How to reach me **mahmudrafi.887@gmail.com**
 
 ### Need help? 💡 Just hit me up on Telegram! 🗯️😎
 
