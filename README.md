@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudrafi&label=Profile%20views&color=ff0000&style=plastic" alt="mahmudrafi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmud0rafi" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud0rafi?logo=twitter&style=for-the-badge" alt="mahmud0rafi" /></a> </p>
+<p align="left"> <a href="https://x.com/_MahmudRafi_" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud0rafi?logo=twitter&style=for-the-badge" alt="mahmud0rafi" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
